@@ -9,7 +9,7 @@
 
 ### Dataset of youtube:
 - Youtube uses factors, including users interactions
-  e.g. number of views , shares comments and likes.
+  e.g. number of views , shares,  comments and likes.
 - Sources: Kaggle . Data Collected using Youtube API
 
 ### Why used Cloud?
